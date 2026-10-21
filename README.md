@@ -3,7 +3,7 @@
 ### Software Engineer | Incoming MSCS Student @ University of Florida | AI Enthusiast
 
 Software Engineer with **7+ years of industry experience** building scalable backend systems, distributed services, and enterprise software.  
-Incoming **Master’s student in Computer Science at the University of Florida**, with strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Data Science, and Distributed Systems**.
+Incoming **Master’s student in Computer Science at the University of Florida**, with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Data Science, and Distributed Systems**.
 
 I enjoy solving complex engineering problems, designing scalable architectures, and applying AI to real-world systems.
 
@@ -11,8 +11,8 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 
 ## 🚀 About Me
 
-- 💻 7+ years of professional software engineering experience
-- 🎓 Incoming **MS in Computer Science** at **University of Florida**
+- 💻 10+ years of professional software engineering experience
+- 🎓 Pursuing **MS in Computer Science** at **University of Florida**
 - 🎓 Pursuing **MSc in Artificial Intelligence** (University of Moratuwa)
 - 🔬 Interested in AI research and applied intelligent systems
 - ☁️ Hands-on experience with cloud-native distributed systems
@@ -31,7 +31,7 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 - Healthcare AI
 - Bioinformatics
 - Distributed Systems
-- Large Scale Backend Architecture
+- Large-Scale Backend Architecture
 
 ---
 
