@@ -1,8 +1,8 @@
 # Hi, I'm Prasad Kondasingha Mulacharilage 👋
 
-### Software Engineer | Incoming MSCS Student @ University of Florida | AI Enthusiast
+### Software Engineer | MSCS Student @ University of Florida | AI Enthusiast
 
-Software Engineer with **7+ years of industry experience** building scalable backend systems, distributed services, and enterprise software.  
+Software Engineer with **10+ years of industry experience** building scalable backend systems, distributed services, and enterprise software.  
 Incoming **Master’s student in Computer Science at the University of Florida**, with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Data Science, and Distributed Systems**.
 
 I enjoy solving complex engineering problems, designing scalable architectures, and applying AI to real-world systems.
