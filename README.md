@@ -84,7 +84,7 @@ I enjoy solving complex engineering problems, designing scalable architectures, 
 
 # 💼 Professional Experience
 
-## Grubtech Pvt Ltd — Software Engineer (2021–2022)
+## Grubtech Pvt Ltd — Software Engineer (2021–2026)
 Worked on a cloud-based kitchen management platform integrating:
 
 - Food aggregators
